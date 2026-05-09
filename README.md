@@ -1,4 +1,4 @@
-# Christ Coding Challenge
+# CHRIST Coding Challenge
 
 The application consists out of:
 - ASP.NET Backend
