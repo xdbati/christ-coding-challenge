@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "ChristBackend.Controllers.ArticleFetcherController",
+    "Method": "GetStoredArticles",
+    "RelativePath": "ArticleFetcher",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "articles"
+  }
+]

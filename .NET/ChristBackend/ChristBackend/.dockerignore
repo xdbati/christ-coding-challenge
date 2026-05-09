@@ -1,0 +1,12 @@
+bin/
+obj/
+ChristBackend/
+Dockerfile
+.git/
+.gitignore
+.dockerignore
+*.user
+*.user.*
+node_modules/
+.npm/
+.eslintcache

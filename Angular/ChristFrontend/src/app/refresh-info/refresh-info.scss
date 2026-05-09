@@ -1,0 +1,9 @@
+a {
+  color: rgb(0, 0, 0);
+  transition: color 0.3s ease;
+
+  &.stale {
+    font-weight: bold;
+    color: red;
+  }
+}

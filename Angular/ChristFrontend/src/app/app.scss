@@ -1,0 +1,22 @@
+.top-bar {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+app-refresh-info {
+    margin-left: auto;
+}
+
+app-article-grid-view {
+    flex: 1;
+    min-height: 0;
+    display: block;
+}

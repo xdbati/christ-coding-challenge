@@ -1,0 +1,17 @@
+* {
+    font-family: "Segoe UI";
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+app-root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}

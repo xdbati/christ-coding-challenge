@@ -1,0 +1,8 @@
+<ag-grid-angular 
+        [rowData]="rowData"
+        [columnDefs]="colDefs"
+        [defaultColDef]="{ sortable: true, filter: true, resizable: true }"
+        [overlayNoRowsTemplate]="noRowsTemplate"
+        (gridReady)="onGridReady($event)"
+        (firstDataRendered)="onFirstDataRendered()"
+    />
