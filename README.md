@@ -24,7 +24,7 @@ The application consists out of:
 	- KOLL			: Collection
 	- WRG_2			: Product group
 	- WHG_2			: Main Product group
-	- ZIEL			: Gender
+	- ZIEL			: Target Group
 	
 ## Frontend
 - Display article entries in table/grid view using AG Grid

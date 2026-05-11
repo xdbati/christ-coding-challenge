@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChristBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb79ac9bc1587b60b71b358266dc9f47d5e0b9bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChristBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChristBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

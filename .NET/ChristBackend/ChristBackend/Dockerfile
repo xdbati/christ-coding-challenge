@@ -1,19 +1,19 @@
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
-#restore
+# Restore
 COPY ["ChristBackend.csproj", "."]
 RUN dotnet restore 'ChristBackend.csproj'
 
-#build
+# Build
 COPY . .
 RUN dotnet build 'ChristBackend.csproj' -c Release -o /app/build
 
-#Publish
+# Publish
 FROM build AS publish
 RUN dotnet publish 'ChristBackend.csproj' -c Release -o /app/publish
 
-#Run
+# Run
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 ENV ASPNETCORE_HTTP_PORTS=8080
 EXPOSE 8080

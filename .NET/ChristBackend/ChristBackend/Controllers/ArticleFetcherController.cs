@@ -3,7 +3,7 @@
 namespace ChristBackend.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/articles")]
     public class ArticleFetcherController : ControllerBase
     {
         private readonly ArticleDataService _articleDataService;
@@ -13,7 +13,7 @@ namespace ChristBackend.Controllers
             _articleDataService = articleDataService;
         }
 
-        [HttpGet(Name="articles")]
+        [HttpGet]
         public async Task<IActionResult> GetStoredArticles()
         {
             var entries = await _articleDataService.ReadAll();

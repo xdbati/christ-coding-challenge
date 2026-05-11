@@ -13,17 +13,11 @@ ModuleRegistry.registerModules([AllCommunityModule]);
 export class ArticleGridView implements OnChanges {
   @Input() articles : any[] = [];
   @Input() currentLang = 'de';
-
-  noRowsTemplate = '<span class="no-rows">Keine Artikel gefunden.</span>';
-  private gridApi!: GridApi;
-
-  getField(field: Record<string, string> | null, fallback = '-'): string {
-    if (!field) return fallback;
-
-    return field[this.currentLang] ?? field['de'] ?? fallback;
-  }
-
+  
   rowData : any[] = [];
+
+  readonly noRowsTemplate = '<span class="no-rows">Keine Artikel gefunden.</span>';
+  private gridApi!: GridApi;
 
   ngOnChanges(changes: SimpleChanges) : void {
     if (changes['articles'] || changes['currentLang']) {
@@ -40,6 +34,21 @@ export class ArticleGridView implements OnChanges {
     this.gridApi.autoSizeAllColumns(false);
   }
 
+  /**
+   * Returns the translation of a given field if possible. 
+   * If no translation is found it defaults to german, 
+   * and if this also fails simply returns "-".
+   * @param field The field, whos translated text we want.
+   * @param fallback 
+   * @returns 
+   */
+  getField(field: Record<string, string> | null, fallback = '-'): string {
+    if (!field) return fallback;
+
+    return field[this.currentLang] ?? field['de'] ?? fallback;
+  }
+
+  
   private mapToRows(): any[] {
     return this.articles.map(article => ({
       articleId: article.articleId,
@@ -69,6 +78,6 @@ export class ArticleGridView implements OnChanges {
       { field: 'KOLL', headerName: 'Kollektion' },
       { field: 'WRG_2', headerName: 'Warengruppe' },
       { field: 'WHG_2', headerName: 'Warenhauptgruppe' },
-      { field: 'ZIEL', headerName: 'Geschlecht' }
+      { field: 'ZIEL', headerName: 'Zielgruppe' }
     ];
 }

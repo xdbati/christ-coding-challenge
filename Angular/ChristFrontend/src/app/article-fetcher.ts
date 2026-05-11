@@ -8,8 +8,12 @@ import { Observable } from 'rxjs';
 })
 export class ArticleFetcher {
   private http = inject(HttpClient);
-  private apiUrl = environment.apiURL + '/articlefetcher';
+  private apiUrl = environment.apiURL + '/api/articles';
 
+  /**
+   * Calls backend API in order to fetch the current sortiment of articles.
+   * @returns 
+   */
   public get(): Observable<any> {
     return this.http.get(this.apiUrl);
   }

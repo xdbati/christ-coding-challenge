@@ -32,3 +32,4 @@ C:\Users\bati0\Desktop\christ-challenge\.NET\ChristBackend\ChristBackend\obj\Deb
 C:\Users\bati0\Desktop\christ-challenge\.NET\ChristBackend\ChristBackend\obj\Debug\net9.0\ChristBackend.genruntimeconfig.cache
 C:\Users\bati0\Desktop\christ-challenge\.NET\ChristBackend\ChristBackend\obj\Debug\net9.0\ref\ChristBackend.dll
 C:\Users\bati0\Desktop\christ-challenge\.NET\ChristBackend\ChristBackend\bin\Debug\net9.0\articles.json
+C:\Users\bati0\Desktop\christ-challenge\.NET\ChristBackend\ChristBackend\obj\Debug\net9.0\ChristBackend.sourcelink.json

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\controllers\\articlefetchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\controllers\\articlefetchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\articlefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\articlefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -23,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\articleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\articlefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\articlefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\articlesyncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\articlesyncer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\articledatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\articledatamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\controllers\\articlefetchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|solutionrelative:christbackend\\controllers\\articlefetchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D796BF0-E449-4AF3-A033-F5C7F6C37162}|ChristBackend\\ChristBackend.csproj|c:\\users\\bati0\\desktop\\christ-challenge\\.net\\christbackend\\christbackend\\articledataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 334,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\.dockerignore",
               "RelativeDocumentMoniker": "ChristBackend\\.dockerignore",
               "ToolTip": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\.dockerignore",
               "RelativeToolTip": "ChristBackend\\.dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-09T14:16:09.811Z",
+              "WhenOpened": "2026-05-09T14:36:10.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\Dockerfile",
               "RelativeDocumentMoniker": "ChristBackend\\Dockerfile",
@@ -79,31 +79,31 @@
               "RelativeToolTip": "ChristBackend\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-09T09:39:14.462Z",
+              "WhenOpened": "2026-05-09T14:36:08.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\Program.cs",
               "RelativeDocumentMoniker": "ChristBackend\\Program.cs",
               "ToolTip": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\Program.cs",
               "RelativeToolTip": "ChristBackend\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T08:51:06.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ArticleFetcherController.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\Controllers\\ArticleFetcherController.cs",
               "RelativeDocumentMoniker": "ChristBackend\\Controllers\\ArticleFetcherController.cs",
               "ToolTip": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\Controllers\\ArticleFetcherController.cs",
               "RelativeToolTip": "ChristBackend\\Controllers\\ArticleFetcherController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T09:12:04.674Z",
               "EditorCaption": ""
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ArticleSyncer.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\ArticleSyncer.cs",
               "RelativeDocumentMoniker": "ChristBackend\\ArticleSyncer.cs",
@@ -130,12 +130,11 @@
               "RelativeToolTip": "ChristBackend\\ArticleSyncer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T15:59:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T15:59:55.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ArticleFetcherService.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\ArticleFetcherService.cs",
               "RelativeDocumentMoniker": "ChristBackend\\ArticleFetcherService.cs",
@@ -148,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ArticleDataMapper.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\ArticleDataMapper.cs",
               "RelativeDocumentMoniker": "ChristBackend\\ArticleDataMapper.cs",
@@ -156,12 +155,11 @@
               "RelativeToolTip": "ChristBackend\\ArticleDataMapper.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA4wAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:16:34.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:16:34.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ArticleEntry.cs",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\ArticleEntry.cs",
               "RelativeDocumentMoniker": "ChristBackend\\ArticleEntry.cs",
@@ -169,12 +167,11 @@
               "RelativeToolTip": "ChristBackend\\ArticleEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:09:28.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:09:28.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\appsettings.json",
               "RelativeDocumentMoniker": "ChristBackend\\appsettings.json",
@@ -182,12 +179,11 @@
               "RelativeToolTip": "ChristBackend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T09:21:00.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:21:00.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\bati0\\Desktop\\christ-challenge\\.NET\\ChristBackend\\ChristBackend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ChristBackend\\appsettings.Development.json",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "ChristBackend\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T08:53:34.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T08:53:34.49Z"
             }
           ]
         }

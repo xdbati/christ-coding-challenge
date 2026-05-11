@@ -2,7 +2,7 @@
   {
     "ContainingType": "ChristBackend.Controllers.ArticleFetcherController",
     "Method": "GetStoredArticles",
-    "RelativePath": "ArticleFetcher",
+    "RelativePath": "ArticleFetcherba",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

@@ -16,15 +16,15 @@ export class App {
   lastRefreshed = signal<Date | null>(null);
 
   // Language
-  currentLang = signal('de');                               // Current language, default to German
-  readonly languages = ['de', 'nl', 'fr', 'sv', 'da', 'it', 'pl'];   // Available languages
+  currentLang = signal('de');                                         // Current language, default to German
+  readonly languages = ['de', 'nl', 'fr', 'sv', 'da', 'it', 'pl'];    // Available languages
   
   onLanguageChanged(lang: string) : void {
     this.currentLang.set(lang);
   }
 
   // Articles
-  articles = signal<any[]>([]);                             // Fetched articles
+  articles = signal<any[]>([]);                                       // Fetched articles
   articleFetcher = inject(ArticleFetcher);        
 
   constructor() {
